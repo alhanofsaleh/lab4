@@ -1,19 +1,8 @@
-# Django
+*.log
+*.pot
 *.pyc
-__pycache__/
-db.sqlite3
-
-# Environments
+__pycache__
+*.bak
+.venv
+env/
 venv/
-.env
-
-# VSCode
-.vscode/
-
-# Windows
-Thumbs.db
-ehthumbs.db
-Desktop.ini
-
-# macOS
-.DS_Store
