@@ -1,0 +1,21 @@
+# Django
+*.pyc
+__pycache__/
+db.sqlite3
+/static/
+/media/
+
+# Environments
+venv/
+.env
+
+# VSCode
+.vscode/
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store

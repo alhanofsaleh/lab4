@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\libraryproject",
+    "\\libraryproject\\apps",
+    "\\libraryproject\\apps\\bookmodule",
+    "\\libraryproject\\apps\\static",
+    "\\libraryproject\\apps\\templates",
+    "\\libraryproject\\apps\\templates\\bookmodule",
+    "\\libraryproject\\apps\\templates\\includes",
+    "\\libraryproject\\apps\\templates\\layouts",
+    "\\libraryproject\\CS471_lab"
+  ],
+  "SelectedNode": "\\libraryproject\\libraryproject\\urls.py",
+  "PreviewInSolutionExplorer": false
+}
